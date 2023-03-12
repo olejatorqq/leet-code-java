@@ -1,11 +1,11 @@
-# Решение задач с сайта LeetCode
+# Solving tasks from LeetCode
 
-## Содержание
-* [День 1](#день-1)
+## Contend
+* [Day 1](#day-1)
 
-## День 1
+## Day 1
 
-Задачи:
+Tasks:
 1. Running Sum of 1d Array
 > Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
 > Return the running sum of nums.
