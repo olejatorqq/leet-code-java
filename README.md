@@ -1,6 +1,6 @@
 # Solving tasks from LeetCode
 
-## Contend
+## Content
 * [Day 1](#day-1)
 
 ## Day 1
