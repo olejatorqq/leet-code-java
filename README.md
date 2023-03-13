@@ -1,6 +1,4 @@
-# Solving tasks from LeetCode
-
-### LeetCode 75 Study Plan to Ace Interviews
+# LeetCode 75 Study Plan to Ace Interviews
 
 ## Content
 * [Day 1](#day-1)
