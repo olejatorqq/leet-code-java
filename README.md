@@ -6,13 +6,12 @@
 
 ## Day 1
 
-Tasks:
-1. Running Sum of 1d Array
+**1. Running Sum of 1d Array**
 > Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
 >
 > Return the running sum of nums.
 
-2. Find Pivot Index
+**2. Find Pivot Index**
 > Given an array of integers nums, calculate the pivot index of this array.
 >
 > The pivot index is the index where the sum of all the numbers strictly to the left of the index is equal to the sum of all the numbers strictly to the index's right.
@@ -23,7 +22,6 @@ Tasks:
 
 ## Day 2
 
-Tasks:  
 **1. Isomorphic Strings**
 > Given two strings s and t, determine if they are isomorphic.
 >
